@@ -40,3 +40,25 @@ body{
     justify-content: center;
     align-items: center;
 }
+.post-modal-content{
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+textarea{
+    margin-top: 10px;
+    padding: 10px;
+}
+.create-btn{
+    margin-top: 10px;
+    background-color: green;
+    font-size: 14px;
+    width:100px;
+    color: white;
+    padding: 10px;
+    align-self: center;
+    font-family: Abel;
+}
